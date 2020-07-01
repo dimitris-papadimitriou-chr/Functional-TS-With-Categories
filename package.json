@@ -1,0 +1,15 @@
+{
+  "name": "functional-ts",
+  "version": "0.0.0",
+  "description": "FunctionalTs",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
